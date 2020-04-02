@@ -1,8 +1,11 @@
 //Elena Voinu
 public class Bathroom {
+	
+// bathroom has a Tub	
 private Tub bathtub;
 
 public Bathroom() {
+	//create the object bathtub
 	bathtub = new Tub(12);
 	
 }
